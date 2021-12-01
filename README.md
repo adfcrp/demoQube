@@ -1,4 +1,4 @@
-# REPSOL PEMKWSP
+# DEMO QUBE
 
 ## Requirements for Scanners
 
